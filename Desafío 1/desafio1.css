@@ -1,0 +1,28 @@
+h2{
+    color: blue;
+    margin-left: 20px;
+    font-family: 'Kanit', sans-serif;
+}
+h3{
+    color: darkblue;
+    margin-left: 40px;
+    font-family: 'Asap', sans-serif;
+}
+table{
+    margin-left: 100px;
+}
+td{
+    width: 400px;
+    text-align: center;
+    border: solid darkslateblue;
+    border-radius: 5px;
+    background-color: rgb(127, 140, 216);
+    color: rgba(255, 255, 255, 0.87);
+    font-family: 'Secular One', sans-serif;
+}
+.icono{
+    width: 35px;
+}
+i{
+    font-size: 30px;
+}
